@@ -1,12 +1,14 @@
 
-# Types of number
+# Programme F.1 Arithmetic
 
-# Factors and prime numbers
+## Types of number
 
-# Fractions, rations and percentages
+## Factors and prime numbers
 
-# Decimal numbers
-# Powers
-# Number systems
-# Change of base from denary to a new base
-# Reverse method
+## Fractions, rations and percentages
+
+## Decimal numbers
+## Powers
+## Number systems
+## Change of base from denary to a new base
+## Reverse method
