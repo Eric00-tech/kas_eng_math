@@ -3,7 +3,7 @@
 
 
 # **Part 1 Foundation Topics**
-F.1 Arithmetic
+F.1 Arithmeticp[](part1/f1_arithmetic.md)
 
 F.2 Introduction to Algebra
 
