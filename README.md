@@ -3,10 +3,14 @@
 
 
 # **Part 1 Foundation Topics**
-*F.1 Arithmetic
-*F.2 Introduction to Algebra
-*F.3 Expressions and Equations
+F.1 Arithmetic
+
+F.2 Introduction to Algebra
+
+F.3 Expressions and Equations
+
 F.4 Graphs
+
 F.6 Polynomial equations
 F.7 Binomials
 F.8 Partial fractions
